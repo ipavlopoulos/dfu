@@ -1,4 +1,5 @@
 import numpy as np
+from collections import Counter
 
 def dfu(input_data, histogram_input=True):
   """ The Distance From Unimodality measure
