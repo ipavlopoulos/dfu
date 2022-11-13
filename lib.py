@@ -1,3 +1,5 @@
+import numpy as np
+
 def dfu(input_data, histogram_input=True):
   """ The Distance From Unimodality measure
   :param: input_data: the data, by default the relative frequencies of ratings
