@@ -7,3 +7,5 @@ __Methods__: We present the distance from unimodality (DFU), a novel measure tha
 __Results__: We specified the days for which the sentiment-annotated tweets were determined as polarized based on the DFU measure and we found that polarization occurred on different days for two different states in the USA. Regarding toxicity, we found that polarized opinions are more likely by annotators originating from different countries. Moreover, we show that DFU can be exploited as an objective function to train models to predict whether a post will provoke polarized opinions in the future.
  
 The code is wrapped into `lib.py` and three notebooks are shared with all of our experiments. All the data are included in this repository.
+
+The respective article, authored by John Pavlopoulos and Aristidis Likas, is titled "Distance from Unimodality for the Assessment of Opinion Polarization" and it will appear at Cognitive Computation (accepted on November 28th, 2022).
