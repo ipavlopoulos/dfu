@@ -8,4 +8,13 @@ __Results__: We specified the days for which the sentiment-annotated tweets were
  
 The code is wrapped into `lib.py` and three notebooks are shared with all of our experiments. All the data are included in this repository.
 
-The respective article, authored by John Pavlopoulos and Aristidis Likas, is titled "Distance from Unimodality for the Assessment of Opinion Polarization" and it will appear at Cognitive Computation (accepted on November 28th, 2022).
+Please cite us as:
+```
+@article{pavlopoulos-likas-2022,
+    title = "Distance from Unimodality for the Assessment of Opinion Polarization",
+    author = "Pavlopoulos, John  and Likas, Aristidis",
+    journal = "Cognitive Computation",
+    doi = "10.1007/s12559-022-10088-2",
+    year = "2022",
+}
+```
